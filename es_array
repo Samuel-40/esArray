@@ -22,7 +22,7 @@ maggiori.push(numeri[i]);
 "Media:"media +"<br>"+
 "Minimo:"+minimo+"<br>"+
 "Massimo:"+massimo+"<br">+
-"numeri maggiori di 50:"+maggiori,length+"<br><br>"+
+"numeri maggiori di 50:"+maggiori.length+"<br><br>"+
 "numeri generati":<br>"+numeri.join(",");
 </body>
 </html>
